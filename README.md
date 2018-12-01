@@ -1,6 +1,7 @@
 # Pettts  
 
 A Web Application implemented using **MEAN stack**.
+
 **Goal** : Build a **community** for pet lovers.
 ##### **Functions**
 1. Buy / Sell Pets.
