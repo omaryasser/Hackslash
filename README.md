@@ -4,7 +4,7 @@ A Web Application implemented using **MEAN stack**.
 
 **Goal** : Build a **community** for pet lovers.
 ##### **Functions**
-1. Buy / Sell Pets.
-2. Lost & Found Section.
-3. Messaging System.
-4. Find a Shelter For a Pet For a Certain Time.
+- **Buy / Sell** : Users can post that they want to buy or sell a certain pet. They can also search for posts of interest and react to it.
+- **Lost & Found** : Users can report losing a pet. They can also report finding a pet. They can search for their lost pet in this section as well.
+- **Messaging System** : Users can send and recieve messages from each other to ease communication between them.
+- **Shelter** : Users can search for other users to take care of their pets while they are not there.
